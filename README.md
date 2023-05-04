@@ -6,7 +6,8 @@
     |    Objetivo                                      |
     |  - receber 20 valores                            |
     |  - armazená-los em um vetor                      |
-    |  - passar o primeiro valor para o final do vetor |
+    |  - trocar a primeira posição do vetor            |
+    |    com a última                                  |
     |                                                  |
      \ __10/12/2020___________________________13:00__ /
                                           
